@@ -1,4 +1,4 @@
-# NewsSpot
+# EpiNewspot
 
 NewsSpot is a tool that scrapes real-time data from RSS feeds to recognize patterns in Outbreak Detection.
 
