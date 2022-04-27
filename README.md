@@ -1,10 +1,10 @@
-# NewsSpot
+# EpiNewspot
 
-NewsSpot is a tool that scrapes real-time data from RSS feeds to recognize patterns in Outbreak Detection.
+EpiNewspot is a tool that scrapes real-time data from RSS feeds to recognize patterns in Outbreak Detection.
 
 ## About the Project
 
-NewsSpot scrapes off data from RSS feeds from Google Alerts pertaining to user-defined Diseases and performs NLP using [Stanza](https://github.com/stanfordnlp/stanza). The resultant data is then constructed towards predicting Outbreaks of mentioned diseases or their variants thorugh symptom analysis.
+EpiNewspot scrapes off data from RSS feeds from Google Alerts pertaining to user-defined Diseases and performs NLP using [Stanza](https://github.com/stanfordnlp/stanza). The resultant data is then constructed towards predicting Outbreaks of mentioned diseases or their variants thorugh symptom analysis.
 
 ## Built With
 
