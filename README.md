@@ -49,6 +49,11 @@ Alternatively, you can uncomment `line 28` in `NLP.py` to install Stanza.
 - Run the `content_processor.py` to get the entire text data from each article in the feed.
 - Run the `NLP.py`
 
+Alternatively, you can run the `main.py` directly with the arguments of all the disease you want to process.
+```
+$ python3 main.py covid corona measles
+```
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request.
